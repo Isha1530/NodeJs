@@ -1,0 +1,16 @@
+1749551922146 - new request received: GET /
+1749551946697 - new request received: GET /
+1749551949486 - new request received: GET /
+1749551968289 - new request received: GET /
+1749552018659 - new request received: GET /
+1749552018748 - new request received: GET /favicon.ico
+1749552094756 - new request received: GET /hello
+1749552094791 - new request received: GET /favicon.ico
+1749552244347 - new request received: GET /about
+1749552244390 - new request received: GET /favicon.ico
+1749552254859 - new request received: GET /about
+1749552254890 - new request received: GET /favicon.ico
+1749552259209 - new request received: GET /
+1749552259242 - new request received: GET /favicon.ico
+1749552266881 - new request received: GET /hello
+1749552266914 - new request received: GET /favicon.ico

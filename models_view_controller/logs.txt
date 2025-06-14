@@ -1,0 +1,11 @@
+Request: GET /users
+Request: GET /favicon.ico
+Request: GET /users
+Request: GET /api/users
+Request: GET /api/user
+Request: POST /api/users
+Request: GET /api/user
+Request: GET /api/users
+Request: GET /api/users
+Request: PATCH /api/users/684b9817fc69bc661b4341ba
+Request: GET /api/users
